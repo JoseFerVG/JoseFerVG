@@ -5,11 +5,11 @@
 <div align="center">
 
   <!-- Wave GIF Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=José%20Fernando%20Vidal%20García&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@JoseFerVG%20•%20Computer%20Engineering%20Student&descSize=16&descAlignY=55&descColor=c9d1d9" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Jos%C3%A9%20Fernando%20Vidal&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@JoseFerVG%20%E2%80%A2%20Computer%20Engineering%20%26%20Web%20Development&descSize=16&descAlignY=55&descColor=c9d1d9" width="100%" alt="header"/>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=60&lines=%F0%9F%92%BB+Menos+charla%2C+m%C3%A1s+producci%C3%B3n.;%F0%9F%8E%93+Universidad+de+Murcia+%7C+Ing.+Inform%C3%A1tica;%F0%9F%9A%80+Building+cool+stuff+on+the+web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=60&lines=%F0%9F%8E%93+Ingenier%C3%ADa+Inform%C3%A1tica+%7C+Universidad+de+Murcia;%F0%9F%8C%90+Lead+Web+%26+Tech+Infrastructure+%40+CMUDE+Barcelona+2027;%E2%9A%A1+Building+interactive+web+apps%2C+PWAs+%26+TypeScript;%F0%9F%92%BB+Menos+charla%2C+m%C3%A1s+c%C3%B3digo+en+producci%C3%B3n." alt="Typing SVG" />
   </a>
 
 </div>
@@ -20,36 +20,51 @@
 <!--                              ABOUT ME                                    -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre mí
+## 👨‍💻 &nbsp;Sobre mí
 
-```yaml
-nombre: José Fernando Vidal García
-ubicación: Murcia, España 🇪🇸
-universidad: Universidad de Murcia — Ingeniería Informática
-```
+<div align="left">
+
+Estudiante de **Ingeniería Informática** en la **Universidad de Murcia (UMU)**, apasionado por el desarrollo web moderno, la creación de aplicaciones interactivas y la arquitectura de software. 
+
+Cuento con experiencia liderando plataformas web y sistemas digitales para eventos y organizaciones de gran alcance internacional, combinando el desarrollo técnico con el diseño de experiencias de usuario funcionales y atractivas.
+
+- 🎓 **Grado:** Ingeniería Informática — *Universidad de Murcia (UMU)*
+- 🌐 **Liderazgo Técnico:** Responsable de Desarrollo Web & Infraestructura Digital en **[CMUDE Barcelona 2027](https://cmudebarcelona.org)**
+- ⚡ **Especialidades:** TypeScript, React, JavaScript moderno, Progressive Web Apps (PWA) y desarrollo Frontend interactivo
+- 🗣️ **Comunidad & Debate:** Miembro activo y desarrollador web del **Club de Debate UMU** y torneos de debate universitario
+- 📍 **Ubicación:** Murcia, España 🇪🇸
+
+</div>
+
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                             TECH STACK                                   -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## 🛠️ &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack & Habilidades
 
 <div align="center">
 
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### 💻 Lenguajes de Programación
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-#### ⚙️ Backend & Lenguajes
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🧰 Herramientas & Plataformas
+#### 🌐 Frontend & Web Technologies
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ⚙️ Infraestructura, Despliegue & Herramientas
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -59,10 +74,98 @@ universidad: Universidad de Murcia — Ingeniería Informática
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS                                 -->
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
+
+## 🚀 &nbsp;Proyectos Destacados
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🌍 CMUDE Barcelona 2027</h3>
+        <div align="center">
+          <a href="https://cmudebarcelona.org" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_SITIO_OFICIAL-6e40c9?style=for-the-badge" alt="Sitio Web Oficial"/>
+          </a>
+          <br/><br/>
+          <p>Sitio web oficial de la candidatura para el <strong>Campeonato Mundial Universitario de Debate en Español 2027</strong>. Liderazgo en infraestructura digital, desarrollo web, rendimiento y diseño interactivo.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">⚡ RutinaMaster 4000</h3>
+        <div align="center">
+          <a href="https://rutina-master4000.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6e40c9?style=for-the-badge" alt="Live Demo"/>
+          </a>
+          <a href="https://github.com/JoseFerVG/rutinaMaster4000" target="_blank">
+            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+          </a>
+          <br/><br/>
+          <p>Generador dinámico e interactivo de rutinas de entrenamiento con TypeScript y React. Interfaz reactiva y moderna desplegada en Vercel.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🚌 Movibus Línea 34</h3>
+        <div align="center">
+          <a href="https://github.com/JoseFerVG/linea34-TorresDeCotillas-Murcia" target="_blank">
+            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+          </a>
+          <br/><br/>
+          <p><strong>Progressive Web App (PWA) 100% Offline</strong> para la consulta rápida de horarios y paradas de la línea de transporte público Las Torres de Cotillas ↔ Murcia.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎨 TypeMatch (Tinder Tipografías)</h3>
+        <div align="center">
+          <a href="https://github.com/JoseFerVG/tinderTipografias" target="_blank">
+            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+          </a>
+          <br/><br/>
+          <p>Aplicación web interactiva inspirada en mecánicas swipe para votación colectiva y toma de decisiones sobre sistemas tipográficos corporativos y diseño de marca.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🏛️ Debate UMU & Torneo BP Murcia</h3>
+        <div align="center">
+          <a href="https://josefervg.github.io/Debate_UMU/" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_DEBATE_UMU-6e40c9?style=for-the-badge" alt="Debate UMU"/>
+          </a>
+          <a href="https://debateumu.github.io/BPMurcia/" target="_blank">
+            <img src="https://img.shields.io/badge/🏆_BP_MURCIA-6e40c9?style=for-the-badge" alt="Torneo BP Murcia"/>
+          </a>
+          <br/><br/>
+          <p>Plataforma web y suite de gestión para el Club de Debate de la Universidad de Murcia y el Torneo Oficial en formato British Parliamentary.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center">🎮 Apps & Juegos Creativos</h3>
+        <div align="center">
+          <a href="https://josefervg.github.io/aplicacionesRandom/" target="_blank">
+            <img src="https://img.shields.io/badge/⚡_APPS_RANDOM-6e40c9?style=for-the-badge" alt="Apps Random"/>
+          </a>
+          <a href="https://josefervg.github.io/juegos/" target="_blank">
+            <img src="https://img.shields.io/badge/🎲_JUEGOS-6e40c9?style=for-the-badge" alt="Juegos"/>
+          </a>
+          <br/><br/>
+          <p>Colección de micro-aplicaciones web de utilidad y patio de recreo digital con juegos clásicos interactivos desarrollados con tecnologías web puras.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                           GITHUB STATS                                   -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## 📊 &nbsp;GitHub Stats
+## 📊 &nbsp;Estadísticas de GitHub
 
 <div align="center">
 
@@ -87,94 +190,10 @@ universidad: Universidad de Murcia — Ingeniería Informática
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED PROJECTS                                 -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Proyectos Destacados
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🏛️ Debate UMU</h3>
-        <div align="center">
-          <a href="https://josefervg.github.io/Debate_UMU/" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6e40c9?style=for-the-badge" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/JoseFerVG/Debate_UMU" target="_blank">
-            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-          </a>
-          <br/><br/>
-          <p><em>Plataforma web del Club de Debate de la Universidad de Murcia</em></p>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🏆 Torneo BP Murcia</h3>
-        <div align="center">
-          <a href="https://debateumu.github.io/BPMurcia/" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6e40c9?style=for-the-badge" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/DebateUMU/BPMurcia" target="_blank">
-            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-          </a>
-          <br/><br/>
-          <p><em>Web del torneo de debate en formato British Parliamentary de Murcia</em></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🎮 Juegos</h3>
-        <div align="center">
-          <a href="https://josefervg.github.io/juegos/" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6e40c9?style=for-the-badge" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/JoseFerVG/juegos" target="_blank">
-            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-          </a>
-          <br/><br/>
-          <p><em>Colección de juegos interactivos creados con HTML, CSS y JS</em></p>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <h3 align="center">⚡ Aplicaciones Random</h3>
-        <div align="center">
-          <a href="https://josefervg.github.io/aplicacionesRandom/" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6e40c9?style=for-the-badge" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/JoseFerVG/aplicacionesRandom" target="_blank">
-            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-          </a>
-          <br/><br/>
-          <p><em>Portal de mini-aplicaciones web útiles y divertidas</em></p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" valign="top">
-        <h3 align="center">🌍 Lenguajes</h3>
-        <div align="center">
-          <a href="https://josefervg.github.io/lenguajes/" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-6e40c9?style=for-the-badge" alt="Live Demo"/>
-          </a>
-          <a href="https://github.com/JoseFerVG/lenguajes" target="_blank">
-            <img src="https://img.shields.io/badge/📂_CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-          </a>
-          <br/><br/>
-          <p><em>Exploración y documentación de lenguajes de programación</em></p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                        ACTIVITY GRAPH                                    -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## 📈 &nbsp;Actividad
+## 📈 &nbsp;Actividad de Contribuciones
 
 <div align="center">
   <a href="https://github.com/JoseFerVG">
@@ -185,22 +204,10 @@ universidad: Universidad de Murcia — Ingeniería Informática
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
-<!--                      TROPHIES                                            -->
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=JoseFerVG&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════════════ -->
 <!--                             CONTACT                                      -->
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
-## 📬 &nbsp;Contacto
+## 📬 &nbsp;Conecta conmigo
 
 <div align="center">
 
@@ -210,6 +217,10 @@ universidad: Universidad de Murcia — Ingeniería Informática
   &nbsp;
   <a href="https://github.com/JoseFerVG">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://cmudebarcelona.org" target="_blank">
+    <img src="https://img.shields.io/badge/CMUDE_Barcelona-6e40c9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="CMUDE Web"/>
   </a>
 
 </div>
@@ -233,7 +244,3 @@ universidad: Universidad de Murcia — Ingeniería Informática
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" alt="footer"/>
 </div>
-
-<!-- ════════════════════════════════════════════ -->
-<!--  ⭐ Si te gusta lo que ves, deja una estrella  -->
-<!-- ════════════════════════════════════════════ -->
