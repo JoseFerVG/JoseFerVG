@@ -121,6 +121,9 @@ Cuento con experiencia liderando plataformas web y sistemas digitales para event
       <td width="50%" valign="top">
         <h3 align="center">TypeMatch (Tinder Tipografías)</h3>
         <div align="center">
+          <a href="https://tindertipografiascmude.onrender.com/" target="_blank">
+            <img src="https://img.shields.io/badge/LIVE_DEMO-0077B6?style=for-the-badge" alt="Live Demo"/>
+          </a>
           <a href="https://github.com/JoseFerVG/tinderTipografias" target="_blank">
             <img src="https://img.shields.io/badge/CÓDIGO-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
           </a>
@@ -173,19 +176,19 @@ Cuento con experiencia liderando plataformas web y sistemas digitales para event
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/JoseFerVG">
-          <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoseFerVG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&ring_color=00E5FF" alt="GitHub Stats"/>
+          <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFerVG&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9&ring_color=00E5FF" alt="GitHub Stats"/>
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/JoseFerVG">
-          <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseFerVG&theme=tokyonight&hide_border=true&background=0d1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
+          <img height="170" src="https://streak-stats.demolab.com/?user=JoseFerVG&hide_border=true&background=0d1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=555555" alt="GitHub Streak"/>
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
         <a href="https://github.com/JoseFerVG">
-          <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseFerVG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" alt="Top Languages"/>
+          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFerVG&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9" alt="Top Languages"/>
         </a>
       </td>
     </tr>
