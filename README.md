@@ -4,12 +4,12 @@
 
 <div align="center">
 
-  <!-- Wave GIF Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Jos%C3%A9%20Fernando%20Vidal&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=@JoseFerVG%20%E2%80%A2%20Computer%20Engineering%20%26%20Web%20Development&descSize=16&descAlignY=55&descColor=c9d1d9" width="100%" alt="header"/>
+  <!-- High-Contrast Violet Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1e7c,50:6e40c9,100:8b5cf6&height=200&section=header&text=Jos%C3%A9%20Fernando%20Vidal&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%40JoseFerVG%20%E2%80%A2%20Computer%20Engineering%20%2B%20Web%20Development&descSize=16&descAlignY=58&descColor=e9d5ff" width="100%" alt="header"/>
 
-  <!-- Typing SVG (Fixed Smooth Rotation) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%8E%93+Ingenier%C3%ADa+Inform%C3%A1tica+%7C+Universidad+de+Murcia;%F0%9F%8C%90+Lead+Web+%26+Tech+Infrastructure+%40+CMUDE+Barcelona+2027;%E2%9A%A1+Building+interactive+web+apps%2C+PWAs+%26+TypeScript;%F0%9F%92%BB+Menos+charla%2C+m%C3%A1s+c%C3%B3digo+en+producci%C3%B3n." alt="Typing SVG" />
+  <!-- Responsive Typing SVG -->
+  <a href="https://github.com/JoseFerVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&height=45&lines=Ingenier%C3%ADa+Inform%C3%A1tica+%7C+Universidad+de+Murcia;Lead+Web+%2B+Infraestructura+%40+CMUDE+Barcelona+2027;Web+Apps+Interactivas%2C+PWAs+%2B+TypeScript;Menos+charla%2C+m%C3%A1s+c%C3%B3digo+en+producci%C3%B3n." alt="Typing SVG" />
   </a>
 
 </div>
@@ -245,5 +245,5 @@ Cuento con experiencia liderando plataformas web y sistemas digitales para event
 <!-- ══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b1e7c,50:6e40c9,100:8b5cf6&height=120&section=footer" width="100%" alt="footer"/>
 </div>
