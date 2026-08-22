@@ -184,19 +184,19 @@ Cuento con experiencia liderando plataformas web y sistemas digitales para event
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/JoseFerVG">
-          <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFerVG&show_icons=true&hide_border=false&border_color=0077B6&border_radius=8&bg_color=041e42&title_color=00f2fe&icon_color=00e5ff&text_color=ffffff&ring_color=00f2fe" alt="GitHub Stats"/>
+          <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoseFerVG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&ring_color=00E5FF" alt="GitHub Stats"/>
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/JoseFerVG">
-          <img height="170" src="https://streak-stats.demolab.com/?user=JoseFerVG&hide_border=false&border=0077B6&border_radius=8&background=041e42&stroke=00e5ff&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe&sideLabels=ffffff&dates=a5f3fc" alt="GitHub Streak"/>
+          <img height="170" src="https://streak-stats.demolab.com/?user=JoseFerVG&theme=tokyonight&hide_border=true&background=0d1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
         </a>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" valign="middle">
         <a href="https://github.com/JoseFerVG">
-          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFerVG&layout=compact&hide_border=false&border_color=0077B6&border_radius=8&bg_color=041e42&title_color=00f2fe&text_color=ffffff" alt="Top Languages"/>
+          <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoseFerVG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=ffffff" alt="Top Languages"/>
         </a>
       </td>
     </tr>
@@ -213,7 +213,7 @@ Cuento con experiencia liderando plataformas web y sistemas digitales para event
 
 <div align="center">
   <a href="https://github.com/JoseFerVG">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseFerVG&bg_color=041e42&color=00f2fe&line=0077B6&point=ffffff&area=true&area_color=0077B633&hide_border=false&border_color=0077B6&border_radius=8&custom_title=Contribuciones%20recientes" width="95%" alt="Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoseFerVG&bg_color=0d1117&color=00E5FF&line=0077B6&point=ffffff&area=true&area_color=0077B633&hide_border=true&custom_title=Contribuciones%20recientes" width="95%" alt="Activity Graph"/>
   </a>
 </div>
 
